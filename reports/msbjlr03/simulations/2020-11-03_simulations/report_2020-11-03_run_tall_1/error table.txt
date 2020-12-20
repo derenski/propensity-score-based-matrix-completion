@@ -1,0 +1,16 @@
+
+\begin{tabular}{l|l}
+\hline
+Method & MSE (SE)\\
+\hline
+MC-NNM & 977.896 (38.991)\\
+\hline
+Weighted softImpute & 42.655 (18.323)\\
+\hline
+FACTOR & 797.295 (38.94)\\
+\hline
+Weighted R1Comp & 322.661 (39.023)\\
+\hline
+Oracle & 1.008 (1.178)\\
+\hline
+\end{tabular}

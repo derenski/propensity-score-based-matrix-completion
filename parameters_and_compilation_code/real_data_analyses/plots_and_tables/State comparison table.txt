@@ -1,0 +1,12 @@
+
+\begin{tabular}{l|l|l}
+\hline
+abbr & Estimated Mean Increase (SE) & Literature Increase (SE)\\
+\hline
+CA & -0.76\% (0.726\%) & -2.7\% (.37\%)\\
+\hline
+CO & 18.595\% (0.999\%) & 10.938\% (11.35\%)\\
+\hline
+OR & 7.492\% (0.575\%) & 4.4\% (7\%)\\
+\hline
+\end{tabular}

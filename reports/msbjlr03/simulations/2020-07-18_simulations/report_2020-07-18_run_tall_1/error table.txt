@@ -1,0 +1,16 @@
+
+\begin{tabular}{l|r|r}
+\hline
+Method & MSE & SE\\
+\hline
+MC NNM & 48.7546508 & 2.2248811\\
+\hline
+IPS & 5.9844767 & 1.1102344\\
+\hline
+Factor Model Estimator & 1.5866832 & 0.3564472\\
+\hline
+R1COMP & 1.3649765 & 0.5592804\\
+\hline
+ORACLE & 0.0803639 & 0.0708242\\
+\hline
+\end{tabular}

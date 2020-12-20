@@ -1,0 +1,14 @@
+
+\begin{tabular}{l|r}
+\hline
+Method & RMSE\\
+\hline
+MC-NNM & 16.647\\
+\hline
+Weighted SoftImpute & 10.467\\
+\hline
+FACTOR & 8.897\\
+\hline
+Weighted R1Comp & 5.714\\
+\hline
+\end{tabular}

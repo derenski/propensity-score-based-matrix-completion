@@ -1,0 +1,14 @@
+
+\begin{tabular}{l|r}
+\hline
+Method & RMSE\\
+\hline
+MC-NNM & 17.037\\
+\hline
+weightedSoftImpute & 11.058\\
+\hline
+FACTOR & 10.884\\
+\hline
+ourMethod & 5.713\\
+\hline
+\end{tabular}

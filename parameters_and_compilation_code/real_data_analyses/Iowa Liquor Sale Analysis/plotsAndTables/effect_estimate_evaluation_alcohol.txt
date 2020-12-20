@@ -1,0 +1,14 @@
+
+\begin{tabular}{l|l}
+\hline
+Method & MSE (SE)\\
+\hline
+MC-NNM & 0.31 (0.01)\\
+\hline
+Weighted softImpute & 1.49 (0)\\
+\hline
+FACTOR & 0.92 (0.05)\\
+\hline
+Weighted R1Comp & 0 (0)\\
+\hline
+\end{tabular}

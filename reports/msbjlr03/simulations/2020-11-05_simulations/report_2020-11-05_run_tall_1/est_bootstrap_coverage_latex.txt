@@ -1,0 +1,8 @@
+
+\begin{tabular}{l|r|r|r|r}
+\hline
+  & Time 1 & Time 2 & Time 3 & Time 4\\
+\hline
+Estimated Coverage & 0.9866667 & 1 & 0.9966667 & 0.95\\
+\hline
+\end{tabular}
