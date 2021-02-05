@@ -1,8 +1,0 @@
-
-\begin{tabular}{l|r|r|r|r}
-\hline
-  & 1 & 2 & 3 & 4\\
-\hline
-\deltat & 0.97 & 0.9633333 & 0.98 & 0.9566667\\
-\hline
-\end{tabular}

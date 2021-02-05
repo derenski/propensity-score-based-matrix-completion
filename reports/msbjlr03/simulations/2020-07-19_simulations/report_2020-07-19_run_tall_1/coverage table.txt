@@ -1,8 +1,0 @@
-
-\begin{tabular}{l|r|r|r|r|r|r}
-\hline
-  & 1 & 2 & 3 & 4 & 5 & 6\\
-\hline
-\deltat & 1 & 1 & 1 & 1 & 1 & 1\\
-\hline
-\end{tabular}

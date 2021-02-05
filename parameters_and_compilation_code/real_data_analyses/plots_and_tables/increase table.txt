@@ -1,8 +1,0 @@
-
-\begin{tabular}{l|r|r|r|r}
-\hline
-  & NC-NNM & Weighted Soft Impute & Factor Model Estimator & Weighted Rank-One Completion\\
-\hline
-Mean Turnout Increase (\%) & 41.23697 & 55.87999 & -163.4063 & 9.770844\\
-\hline
-\end{tabular}
